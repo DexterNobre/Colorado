@@ -1,0 +1,24 @@
+﻿@model GrudColorado.Models.Cliente
+
+@{
+    ViewBag.Title = "Criar Cliente";
+}
+
+<h1>Criar Cliente</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.RazaoSocial)
+        @Html.TextBoxFor(model => model.RazaoSocial, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.RazaoSocial)
+    </div>
+
+    <!-- Adicione os outros campos aqui -->
+
+    <div class="form-group">
+        <input type="submit" value="Salvar" class="btn btn-primary" />
+    </div>
+}

@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Colorado\\Grud\\GrudColorado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\tipostelefone\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\tipostelefone\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\tipostelefone\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\tipostelefone\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\tipostelefone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\tipostelefone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\telefone\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\telefone\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\controllers\\telefonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:controllers\\telefonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\controllers\\tipotelefonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:controllers\\tipotelefonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\models\\tipotelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:models\\tipotelefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:models\\telefone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\telefone\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\telefone\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\telefone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\telefone\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\controllers\\clientescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:controllers\\clientescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|c:\\colorado\\grud\\grudcolorado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E598E24-1A4F-44D8-BA59-F45893A1582D}|GrudColorado.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\TiposTelefone\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\TiposTelefone\\Edit.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\TiposTelefone\\Edit.cshtml",
+              "RelativeToolTip": "Views\\TiposTelefone\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:50:50.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\TiposTelefone\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\TiposTelefone\\Create.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\TiposTelefone\\Create.cshtml",
+              "RelativeToolTip": "Views\\TiposTelefone\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:50:44.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\TiposTelefone\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TiposTelefone\\Index.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\TiposTelefone\\Index.cshtml",
+              "RelativeToolTip": "Views\\TiposTelefone\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:50:29.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Telefone\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Telefone\\Edit.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Telefone\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Telefone\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:44:09.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Telefone\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Telefone\\Create.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Telefone\\Create.cshtml",
+              "RelativeToolTip": "Views\\Telefone\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:43:58.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Telefone\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Telefone\\Index.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Telefone\\Index.cshtml",
+              "RelativeToolTip": "Views\\Telefone\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:43:49.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:43:12.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:42:45.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:35:14.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Telefone.cs",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Models\\Telefone.cs",
+              "RelativeDocumentMoniker": "Models\\Telefone.cs",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Models\\Telefone.cs",
+              "RelativeToolTip": "Models\\Telefone.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:03:55.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TipoTelefone.cs",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Models\\TipoTelefone.cs",
+              "RelativeDocumentMoniker": "Models\\TipoTelefone.cs",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Models\\TipoTelefone.cs",
+              "RelativeToolTip": "Models\\TipoTelefone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:04:26.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoTelefoneController.cs",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Controllers\\TipoTelefoneController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TipoTelefoneController.cs",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Controllers\\TipoTelefoneController.cs",
+              "RelativeToolTip": "Controllers\\TipoTelefoneController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:31:38.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TelefoneController.cs",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Controllers\\TelefoneController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TelefoneController.cs",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Controllers\\TelefoneController.cs",
+              "RelativeToolTip": "Controllers\\TelefoneController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:04:51.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:22:44.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvx0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:42:15.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:38:39.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientesController .cs",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Controllers\\ClientesController .cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController .cs",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Controllers\\ClientesController .cs",
+              "RelativeToolTip": "Controllers\\ClientesController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:01:17.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:18:53.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:02:44.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T21:34:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Colorado\\Grud\\GrudColorado\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Colorado\\Grud\\GrudColorado\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA8wBQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T20:03:21.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

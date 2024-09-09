@@ -1,0 +1,30 @@
+﻿@model GrudColorado.Models.Telefone
+
+@{
+    ViewBag.Title = "Criar Telefone";
+}
+
+<h1>Criar Telefone</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NumeroTelefone)
+        @Html.TextBoxFor(model => model.NumeroTelefone, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.NumeroTelefone)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.CodigoTipoTelefone)
+        @Html.DropDownListFor(model => model.CodigoTipoTelefone, (SelectList)ViewData["TiposTelefone"], "Selecione o Tipo", new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.CodigoTipoTelefone)
+    </div>
+
+    <!-- Adicione os outros campos aqui -->
+
+    <div class="form-group">
+        <input type="submit" value="Salvar" class="btn btn-primary" />
+    </div>
+}

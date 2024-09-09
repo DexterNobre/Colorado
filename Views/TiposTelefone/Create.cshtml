@@ -1,0 +1,22 @@
+﻿@model GrudColorado.Models.TipoTelefone
+
+@{
+    ViewBag.Title = "Criar Tipo de Telefone";
+}
+
+<h1>Criar Tipo de Telefone</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.DescricaoTipoTelefone)
+        @Html.TextBoxFor(model => model.DescricaoTipoTelefone, new { @class = "form-control" })
+        @Html.ValidationMessageFor(model => model.DescricaoTipoTelefone)
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Criar" class="btn btn-primary" />
+    </div>
+}

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<GrudColorado.Models.Telefone>
+
+@{
+    ViewBag.Title = "Telefones";
+}
+
+<h1>Telefones</h1>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-primary">Criar Novo Telefone</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Código Cliente</th>
+            <th>Número do Telefone</th>
+            <th>Tipo de Telefone</th>
+            <th>Operador</th>
+            <th>Data Inserção</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CodigoCliente</td>
+                <td>@item.NumeroTelefone</td>
+                <td>@item.TipoTelefone?.DescricaoTipoTelefone</td>
+                <td>@item.Operador</td>
+                <td>@item.DataInsercao.ToShortDateString()</td>
+                <td>
+                    <a href="@Url.Action("Details", new { id = item.NumeroTelefone })">Detalhes</a> |
+                    <a href="@Url.Action("Edit", new { id = item.NumeroTelefone })">Editar</a> |
+                    <a href="@Url.Action("Delete", new { id = item.NumeroTelefone })">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
